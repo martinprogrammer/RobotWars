@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1016]C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll</TopNode>
+  <SelectedNode>[0-1016]C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1016]C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1017]RobotWars" Expanded="true" />
+    <Node UniqueName="[0-1018]RobotWars.Test" Expanded="true" />
+    <Node UniqueName="[0-1019]RobotWars.Test.RobotTests" Expanded="true" />
+    <Node UniqueName="[0-1011]RobotWars.Test.RobotTests.AcceptanceTest" Expanded="true" />
+    <Node UniqueName="[0-1000]RobotWars.Test.RobotTests.InputValidationTests" Expanded="true" />
+    <Node UniqueName="[0-1013]RobotWars.Test.RobotTests.ObjectConverterTests" Expanded="true" />
+    <Node UniqueName="[0-1005]RobotWars.Test.RobotTests.RobotTests" Expanded="true" />
+  </Nodes>
+</VisualState>

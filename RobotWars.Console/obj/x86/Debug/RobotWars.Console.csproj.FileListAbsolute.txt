@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\RobotWars\RobotWars.Console\bin\Debug\RobotWars.Console.exe
+c:\users\user\documents\visual studio 2010\Projects\RobotWars\RobotWars.Console\bin\Debug\RobotWars.Console.pdb
+c:\users\user\documents\visual studio 2010\Projects\RobotWars\RobotWars.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\RobotWars\RobotWars.Console\obj\x86\Debug\RobotWars.Console.exe
+c:\users\user\documents\visual studio 2010\Projects\RobotWars\RobotWars.Console\obj\x86\Debug\RobotWars.Console.pdb

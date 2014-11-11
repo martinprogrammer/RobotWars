@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll" total="12" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-03-30" time="14:16:21">
+  <environment nunit-version="2.6.0.12051" clr-version="2.0.50727.3074" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug" machine-name="USER-PC" user="User" user-domain="User-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\User\Documents\Visual Studio 2010\Projects\RobotWars\RobotWars.Test\bin\Debug\RobotWars.Test.dll" executed="True" result="Success" success="True" time="0.018" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="RobotWars" executed="True" result="Success" success="True" time="0.018" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.018" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="RobotTests" executed="True" result="Success" success="True" time="0.018" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="AcceptanceTest" executed="True" result="Success" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="RobotWars.Test.RobotTests.AcceptanceTest.TestAcceptanceCriteria" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="InputValidationTests" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                    <results>
+                      <test-case name="RobotWars.Test.RobotTests.InputValidationTests.IsArenaDimensionValidTest" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                      <test-case name="RobotWars.Test.RobotTests.InputValidationTests.IsInputValidLocationTest" executed="True" result="Success" success="True" time="0.001" asserts="8" />
+                      <test-case name="RobotWars.Test.RobotTests.InputValidationTests.IsInputValidMoveInstructionTest" executed="True" result="Success" success="True" time="0.000" asserts="7" />
+                      <test-case name="RobotWars.Test.RobotTests.InputValidationTests.IsStringArgumentNullOrEmptyTest" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="ObjectConverterTests" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                    <results>
+                      <test-case name="RobotWars.Test.RobotTests.ObjectConverterTests.InputToArenaTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="RobotWars.Test.RobotTests.ObjectConverterTests.InputToRobotTest" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="RobotTests" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                    <results>
+                      <test-case name="RobotWars.Test.RobotTests.RobotTests.MoveRobotByOne" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                      <test-case name="RobotWars.Test.RobotTests.RobotTests.ReturnArenaSizeTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="RobotWars.Test.RobotTests.RobotTests.ReturnRobotCoordinates" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="RobotWars.Test.RobotTests.RobotTests.TurnRobotLeftTest" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                      <test-case name="RobotWars.Test.RobotTests.RobotTests.TurnRobotRightTest" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
